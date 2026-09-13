@@ -1,0 +1,7 @@
+{
+	"parent": "furniture_ultra:block/table_dining_turnedleg_single",
+	"textures": {
+		"0": "furniture_ultra:blocks/table_dining_turnedleg/natural_plank",
+		"1": "furniture_ultra:blocks/table_dining_turnedleg/natural"
+	}
+}

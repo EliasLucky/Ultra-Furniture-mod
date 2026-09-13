@@ -1,0 +1,8 @@
+{
+	"parent": "furniture_ultra:block/chair_greek",
+	"textures": {
+		"0": "furniture_ultra:blocks/chair_greek/white",
+		"1": "furniture_ultra:blocks/chair_dining/white",
+		"2": "furniture_ultra:blocks/table_dining_turnedleg/white_plank"
+	}
+}

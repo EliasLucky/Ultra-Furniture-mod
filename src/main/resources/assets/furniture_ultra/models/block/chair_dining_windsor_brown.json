@@ -1,0 +1,6 @@
+{
+	"parent": "furniture_ultra:block/chair_dining_windsor",
+	"textures": {
+		"0": "furniture_ultra:blocks/chair_dining/brown"
+	}
+}

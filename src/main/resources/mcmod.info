@@ -1,0 +1,18 @@
+[
+{
+  "modid": "furniture_ultra",
+  "name": "Ultra Furniture",
+  "description": "Example placeholder mod.",
+  "version": "0.1.2",
+  "mcversion": "1.12.2, 1.12.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Skittle-man a.k.a Elias Lucky"],
+  "credits": "
+  Ultra Furniture Mod is All about Adding a Variety of Antique and Modern Furniture, Decorations and Buildings Material. 
+  You will be able to find Furniture for everything you want.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

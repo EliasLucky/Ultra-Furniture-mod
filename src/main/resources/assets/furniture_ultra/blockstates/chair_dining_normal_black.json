@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "furniture_ultra:chair_dining_normal_black" },
+		"facing=south": { "model": "furniture_ultra:chair_dining_normal_black", "y": 180 },
+		"facing=west": { "model": "furniture_ultra:chair_dining_normal_black", "y": 270 },
+		"facing=east": { "model": "furniture_ultra:chair_dining_normal_black", "y": 90 }
+	}
+}
