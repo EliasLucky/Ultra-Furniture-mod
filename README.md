@@ -4,6 +4,7 @@
 
 Minecraft Forge "Ultra Furniture" mod for 1.12.2 that adds furniture and decoration blocks to Minecraft.
 
+Images preview:
 ![Chairs](./docs/images/chairs.png)
 
 ![(Tables](./docs/images/tables.png)
